@@ -1,0 +1,167 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.crearecursoshumanos.com.pe" resolutions="1x" timestamp="1559948765977">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="4136680901" ref="contacto:nosotros:cursos:index"/>
+    <file name="contacto.css" crc="509709352" ref="contacto"/>
+    <file name="nosotros.css" crc="3783660776" ref="nosotros"/>
+    <file name="cursos.css" crc="83515446" ref="cursos"/>
+    <file name="index.css" crc="361333916" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="calibri.woff" crc="114382010"/>
+    <file name="calibri.eot" crc="9297144"/>
+    <file name="calibri.svg" crc="7832716"/>
+    <file name="rajdhani-regular-webfont.woff" crc="3870591456"/>
+    <file name="rajdhani-medium-webfont1.eot" crc="3850489693"/>
+    <file name="rajdhani-medium-webfont1.svg" crc="241483634"/>
+    <file name="poppins-regular.woff" crc="3768624378"/>
+    <file name="poppins-regular.eot" crc="134774066"/>
+    <file name="poppins-regular.svg" crc="4192007387"/>
+    <file name="rajdhani-bold-webfont.woff" crc="405725379"/>
+    <file name="rajdhani-bold-webfont.eot" crc="3813653890"/>
+    <file name="rajdhani-bold-webfont.svg" crc="160272800"/>
+    <file name="calibri-bold.woff" crc="7743750"/>
+    <file name="calibri-bold.eot" crc="4009404916"/>
+    <file name="calibri-bold.svg" crc="4092228943"/>
+    <file name="poppins-bold.woff" crc="33472148"/>
+    <file name="poppins-bold.eot" crc="3950271175"/>
+    <file name="poppins.svg" crc="134666602"/>
+    <file name="rajdhani-medium-webfont.woff" crc="176430530"/>
+    <file name="rajdhani-medium-webfont.eot" crc="3850489693"/>
+    <file name="rajdhani-medium-webfont.svg" crc="241483634"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:contacto:cursos"/>
+    <file name="museutils.js" crc="3803043152" ref="index:nosotros:contacto:cursos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nosotros:contacto:cursos"/>
+    <file name="museconfig.js" crc="380897831" ref="index:nosotros:contacto:cursos"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:nosotros:contacto:cursos"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:nosotros:contacto:cursos"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:nosotros:contacto:cursos"/>
+    <file name="webpro.js" crc="242022427" ref="index:nosotros:contacto"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:nosotros"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:nosotros"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:nosotros"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nosotros:contacto:cursos"/>
+    <file name="require.js" crc="4157109226" ref="index:nosotros:contacto:cursos"/>
+    <file name="form_check.php" crc="147359589" ref="contacto"/>
+    <file name="form_throttle.php" crc="93986428" ref="contacto"/>
+    <file name="form_process.php" crc="3851993751" ref="contacto"/>
+    <file name="form-u2221.php" crc="488102197" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="a-pág.-maestra-favicon.ico" crc="4024435792" ref="index"/>
+    <file name="barra menu.png" crc="4276114048" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crea logo.png" crc="246185734" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icono_celular.svg" crc="4043924419" ref="index"/>
+    <file name="icono_celular_poster_u999.png" crc="128130731" ref="index"/>
+    <file name="icono_mail.svg" crc="311456751" ref="index"/>
+    <file name="icono_mail_poster_u968.png" crc="506490627" ref="index"/>
+    <file name="slider1.jpg" crc="4062420393" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros:contacto"/>
+    <file name="slider2.jpg" crc="3796403252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider3.jpg" crc="168804101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:nosotros"/>
+    <file name="fondo blanco.png" crc="393834017" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="equipo corralito-crop-u3831.jpg" crc="133573919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="corralito 10-crop-u3833.jpg" crc="4205259337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tv 1-crop-u3829.jpg" crc="360658111" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fondo celeste2.png" crc="4142295011" ref="index:nosotros">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="corralito 8-crop-u3938.jpg" crc="40200400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="corralito 10-crop-u3958.jpg" crc="3922782496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20180326-wa0002-crop-u3978.jpg" crc="3973343693" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20180213_160841-crop-u4039.jpg" crc="279174289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto certificado-crop-u4059.jpg" crc="152563837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="56881375_167111127575070_5932090846483578880_n-crop-u4093.jpg" crc="281392018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="58376549_171980360421480_2816212242125553664_n-crop-u4113.jpg" crc="3831639633" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crea blanco.png" crc="519052674" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nosotros-favicon.ico" crc="4024435792" ref="nosotros"/>
+    <file name="20190410_095355.jpg" crc="4046572579" ref="nosotros:cursos">
+      <caption webpage="cursos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="img-20190417-wa0008 - copia.jpg" crc="409030890" ref="nosotros:cursos">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="equipo corralito-crop-u1972.jpg" crc="133573919" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="corralito 10-crop-u1999.jpg" crc="4205259337" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="tv 1-crop-u2026.jpg" crc="360658111" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="valores2.png" crc="424827957" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="valores1.png" crc="285771816" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="valores3.png" crc="3898081560" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="valores4.png" crc="427783650" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="diverse-team-around-table_shutterstock_681206938_edited.jpg" crc="3778781924" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="imagem-9-seguro-de-vida-11-dicas-ao-contratar-este-serviço-para-a-sua-empresa-u2214-fr.png" crc="487325888" ref="contacto"/>
+    <file name="hacer-crecer-su-negocio-4.jpg" crc="382767860" ref="cursos">
+      <caption webpage="cursos" alt=""/>
+    </file>
+    <file name="vendedores.jpg" crc="305265858" ref="cursos">
+      <caption webpage="cursos" alt=""/>
+    </file>
+    <file name="5454.jpg" crc="233652926" ref="cursos">
+      <caption webpage="cursos" alt=""/>
+    </file>
+    <file name="55555.jpg" crc="339435216" ref="cursos">
+      <caption webpage="cursos" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3920767117" seo="true" mt="1559948726237" redirect="true"/>
+  <file name="nosotros.html" crc="3808835420" seo="true" mt="1559948726237" redirect="true"/>
+  <file name="contacto.html" crc="162611613" seo="true" mt="1559948726237" redirect="true"/>
+  <file name="cursos.html" crc="4278366264" seo="true" mt="1559948726237" redirect="true"/>
+</manifest>
